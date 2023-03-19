@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const h1 = document.createElement("h1");
 h1.innerText = "Hello Everyone from JavaScript ❤️";
 const rootId = document.getElementById("root1");
